@@ -289,6 +289,6 @@ An optional second argument to `rjust()` and `ljust()` will specify a fill chara
 # '    Hello World'
 
 >>> spam = 'SpamSpamBaconSpamEggsSpamSpam'
->>> spam.strip('ampS')
+>>> spam.strip('Spam')
 # 'BaconSpamEggs'
 ```
